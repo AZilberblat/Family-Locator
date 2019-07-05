@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "321061797281",
+    "firebase_url": "https://tracker-48476.firebaseio.com",
+    "project_id": "tracker-48476",
+    "storage_bucket": "tracker-48476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321061797281:android:93e8124636339096",
+        "android_client_info": {
+          "package_name": "com.alrubaye.mytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321061797281-j6vogqpe50k2unpf669in6vt7m3pdndb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alrubaye.mytracker",
+            "certificate_hash": "61c62f66d6e63aac182a52520a7ab2ba5d625a58"
+          }
+        },
+        {
+          "client_id": "321061797281-vfu6lvgjvpjrvlpfadgfr83g9no1406q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETi3RU2t0OF4uiUyIYP27IT56i5oOIPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321061797281-vfu6lvgjvpjrvlpfadgfr83g9no1406q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
